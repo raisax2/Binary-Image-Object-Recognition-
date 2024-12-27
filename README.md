@@ -71,14 +71,3 @@ make all
 3. Region labeling employs a sequential algorithm with two passes to resolve label equivalences.
 4. Object attributes include position, orientation, area, and shape properties.
 5. Object recognition uses a comparison of attributes against a reference database.
-
----
-
-## **Usage Notes**
-- Ensure the programs run correctly in the specified environment.
-- Visualize input/output images using tools like [GIMP](https://www.gimp.org).
-- Use consistent file naming conventions for seamless execution.
-
----
-
-For further details, refer to the source code and in-line comments. Happy coding!
